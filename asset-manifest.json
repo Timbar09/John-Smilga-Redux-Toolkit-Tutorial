@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/static/css/main.a1407077.css",
+    "main.css": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/static/css/main.a4d0c581.css",
     "main.js": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/static/js/main.5629610d.js",
     "index.html": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/index.html",
-    "main.a1407077.css.map": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/static/css/main.a1407077.css.map",
+    "main.a4d0c581.css.map": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/static/css/main.a4d0c581.css.map",
     "main.5629610d.js.map": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/static/js/main.5629610d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1407077.css",
+    "static/css/main.a4d0c581.css",
     "static/js/main.5629610d.js"
   ]
 }
