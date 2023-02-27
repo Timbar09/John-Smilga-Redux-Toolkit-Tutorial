@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/static/css/main.a1407077.css",
+    "main.js": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/static/js/main.ed31e304.js",
+    "index.html": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/index.html",
+    "main.a1407077.css.map": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/static/css/main.a1407077.css.map",
+    "main.ed31e304.js.map": "/Timbar09/John-Smilga-Redux-Toolkit-Tutorial/static/js/main.ed31e304.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1407077.css",
+    "static/js/main.ed31e304.js"
+  ]
+}
